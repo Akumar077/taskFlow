@@ -1,0 +1,84 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[14].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[14].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[14].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[14].use[5]!./styles/_colors.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[10].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[10].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[10].use[5]!./Component/MainWorkFlow/style.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.style_container__orKkG {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000000;
+  margin: 20px;
+  border-radius: 16px 0px 0px;
+}
+.style_container__orKkG .style_buildConfig__oaXsK {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 24px;
+  border-bottom: 1px solid #808080;
+}
+.style_container__orKkG .style_buildConfig__oaXsK .style_mainButton__eI0Y_ {
+  display: flex;
+  gap: 12px;
+}
+.style_container__orKkG .style_content__AsSo7 {
+  display: flex;
+  width: 100%;
+}
+.style_container__orKkG .style_content__AsSo7 .style_taskFlow__1_uy6 {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 80%;
+  gap: 50px;
+  align-items: center;
+  background-image: url(/_next/static/media/BackgroundImage.3c1f4658.png);
+}
+.style_container__orKkG .style_content__AsSo7 .style_taskFlow__1_uy6 .style_taskFlowHeading__VXKtx {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 16px;
+}
+.style_container__orKkG .style_content__AsSo7 .style_taskFlow__1_uy6 .style_button__rbcU3 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin: 20px 0;
+}
+.style_container__orKkG .style_content__AsSo7 .style_taskFlow__1_uy6 .style_button__rbcU3::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 2px;
+  background-color: #0496ff;
+  height: 100%;
+}
+.style_container__orKkG .style_content__AsSo7 .style_taskFlow__1_uy6 .style_button__rbcU3 .style_crossIcon__MiOd8 {
+  background: #ff0000;
+  border-radius: 100%;
+  position: absolute;
+  right: -5px;
+  top: -5px;
+}
+.style_container__orKkG .style_content__AsSo7 .style_taskFlow__1_uy6 .style_button__rbcU3 .style_crossButton__YHMcZ {
+  background: linear-gradient(0deg, rgba(4, 150, 255, 0.05), rgba(4, 150, 255, 0.05)), #ffffff !important;
+}
+.style_container__orKkG .style_content__AsSo7 .style_taskFlow__1_uy6 .style_button__rbcU3 .style_nonCrossButton__IuHwr {
+  height: 44px;
+  transition: all 1s;
+  border-radius: 8px;
+  margin: 20px 0;
+  background: #ffffff;
+  width: 100%;
+  z-index: 1;
+}
+.style_container__orKkG .style_content__AsSo7 .style_securityChecks__PWVop {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  padding: 20px;
+  border-left: 1px solid #808080;
+}
